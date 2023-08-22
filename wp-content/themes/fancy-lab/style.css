@@ -11,3 +11,9 @@ License URI: http://www.programmersohan.com/license.html
 Tags: e-commerce, custom-menu, custom-logo, featured-images, footer-widgets, theme-options, translation-ready, blog, right-sidebar, sticky-post, threaded-comments
 
 */
+
+.top-bar{
+    background: green;
+    height: 70px;
+
+}
